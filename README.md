@@ -2,17 +2,21 @@
 
 <br>
 
+![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  &emsp; &emsp;
 ![](https://img.shields.io/github/forks/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
 ![](https://img.shields.io/github/stars/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
 ![](https://img.shields.io/github/license/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
 
 <br>
-<h3 align="left">ABSTRACT : </h3>
+
+## ABSTRACT 
+
 <p align="justify">This project aims to develop a college enquiry Chabot that answers any queries post by students like college details, course-related questions, location of the college, fee structure etc. The College Enquiry Chatbot project is built using machine learning algorithms that analyse user’s queries and understand the user's message. This System is a web application that provides answers to the query. Any individual just has to query through the bot. The answers are appropriate to what the user queries. The User can query any college-related activities through the system. The user does not have to personally go to the college for enquiry. The System analyses the question and then answers to the user. The user can also give their suggestions through the suggestion box. The system replies using an effective Graphical User Interface which implies that as if a real person is talking to the user.  </p>
 
-<!--[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)-->
+
 <br>
-<h3 align="left"> SOFTWARE REQUIREMENTS : </h3>
+
+## SOFTWARE REQUIREMENTS
 <ul type="square">
   <li> <b> Operating System : </b> Any version of Windows NT family (4.0 &above) </li>
    &emsp;
@@ -59,7 +63,12 @@
   </ul>
 <br>
 
-<h3 align="left"> RESULTS : </h3>
+## RUN USING
+`python app.py runserver`
+
+<br>
+
+## RESULTS : 
 <ol>
 <h3> <li>  <b> Register Page : </b></h3>
      <p align="left"> 
